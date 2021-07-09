@@ -8,21 +8,21 @@ Keyword search tool. Will check for technical keywords in the job listing and se
 This is only bootstrap. Need performance improvement and multiple other fixes.
 
 Sample Usage [ TODO: Proper presentation of result]
-  - Skill `frontend` count in resume is 0 in JD the cound is 0
-  - Skill `rest` count in resume is 0 in JD the cound is 2
-  - Skill `api` count in resume is 1 in JD the cound is 4
-  - Skill `backend` count in resume is 0 in JD the cound is 0
-  - Skill `development` count in resume is 1 in JD the cound is 1
-  - Skill `react` count in resume is 0 in JD the cound is 0
-  - Skill `angular` count in resume is 0 in JD the cound is 1
-  - Skill `java` count in resume is 1 in JD the cound is 2
-  - Skill `python` count in resume is 0 in JD the cound is 1
-  - Skill `node` count in resume is 0 in JD the cound is 3
-  - Skill `javascript` count in resume is 0 in JD the cound is 2
-  - Skill `C#` count in resume is 0 in JD the cound is 0
-  - Skill `mysql` count in resume is 0 in JD the cound is 0
-  - Skill `mongo` count in resume is 0 in JD the cound is 0
-  - Skill `database` count in resume is 0 in JD the cound is 0
-  - Skill `software` count in resume is 1 in JD the cound is 5
-  - Skill `engineering` count in resume is 0 in JD the cound is 3
-  - Skill `sql` count in resume is 0 in JD the cound is 0
+  - Skill `frontend` mention in resume is 0 in JD the mention is 0
+  - Skill `rest` mention in resume is 0 in JD the mention is 2
+  - Skill `api` mention in resume is 1 in JD the mention is 4
+  - Skill `backend` mention in resume is 0 in JD the mention is 0
+  - Skill `development` mention in resume is 1 in JD the mention is 1
+  - Skill `react` mention in resume is 0 in JD the mention is 0
+  - Skill `angular` mention in resume is 0 in JD the mention is 1
+  - Skill `java` mention in resume is 1 in JD the mention is 2
+  - Skill `python` mention in resume is 0 in JD the mention is 1
+  - Skill `node` mention in resume is 0 in JD the mention is 3
+  - Skill `javascript` mention in resume is 0 in JD the mention is 2
+  - Skill `C#` mention in resume is 0 in JD the mention is 0
+  - Skill `mysql` mention in resume is 0 in JD the mention is 0
+  - Skill `mongo` mention in resume is 0 in JD the mention is 0
+  - Skill `database` mention in resume is 0 in JD the mention is 0
+  - Skill `software` mention in resume is 1 in JD the mention is 5
+  - Skill `engineering` mention in resume is 0 in JD the mention is 3
+  - Skill `sql` mention in resume is 0 in JD the mention is 0
