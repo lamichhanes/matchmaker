@@ -1,7 +1,9 @@
-from jd import webanalyzer as wa
+from jd.webanalyzer import JobDescription
 from resume import resume as r
 
 from pprint import pprint
 
-word_count = wa.run()
-r.resume(word_count)
+jd = JobDescription()
+url = "https://boards.greenhouse.io/turo/jobs/3279487?s=LinkedIn&source=LinkedIn"
+word_count = jd.web_processing(url)
+pprint(word_count)
