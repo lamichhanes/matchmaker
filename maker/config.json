@@ -1,0 +1,6 @@
+{
+	"resume" : {
+		"pdf" : "path/to/resume.pdf",
+		"docx" : "path/to/resume.docx"
+	}
+}
