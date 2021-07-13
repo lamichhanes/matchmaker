@@ -17,6 +17,7 @@ pathspec==0.8.1
 pdfminer.six==20200517
 pdfplumber==0.5.28
 Pillow==8.3.1
+prettytable==2.1.0
 pycryptodome==3.10.1
 python-pptx==0.6.18
 pytz==2021.1
@@ -30,5 +31,6 @@ toml==0.10.2
 tzlocal==1.5.1
 urllib3==1.26.6
 Wand==0.6.6
+wcwidth==0.2.5
 xlrd==1.2.0
 XlsxWriter==1.4.4
