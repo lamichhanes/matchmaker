@@ -1,3 +1,5 @@
+THE APPLICATION/SCRIPT IS ONLY MEANT TO USE FOR PERSONAL USE!
+
 # matchmaker
 Keyword search tool. Will check for technical keywords in the job listing and search those keywords in the resume.
 
@@ -6,23 +8,18 @@ Keyword search tool. Will check for technical keywords in the job listing and se
 3. To run -  `python app.py`
 
 This is only bootstrap. Need performance improvement and multiple other fixes.
-
-Sample Usage [ TODO: Proper presentation of result]
-  - Skill `frontend` mention in resume is 0 in JD the mention is 0
-  - Skill `rest` mention in resume is 0 in JD the mention is 2
-  - Skill `api` mention in resume is 1 in JD the mention is 4
-  - Skill `backend` mention in resume is 0 in JD the mention is 0
-  - Skill `development` mention in resume is 1 in JD the mention is 1
-  - Skill `react` mention in resume is 0 in JD the mention is 0
-  - Skill `angular` mention in resume is 0 in JD the mention is 1
-  - Skill `java` mention in resume is 1 in JD the mention is 2
-  - Skill `python` mention in resume is 0 in JD the mention is 1
-  - Skill `node` mention in resume is 0 in JD the mention is 3
-  - Skill `javascript` mention in resume is 0 in JD the mention is 2
-  - Skill `C#` mention in resume is 0 in JD the mention is 0
-  - Skill `mysql` mention in resume is 0 in JD the mention is 0
-  - Skill `mongo` mention in resume is 0 in JD the mention is 0
-  - Skill `database` mention in resume is 0 in JD the mention is 0
-  - Skill `software` mention in resume is 1 in JD the mention is 5
-  - Skill `engineering` mention in resume is 0 in JD the mention is 3
-  - Skill `sql` mention in resume is 0 in JD the mention is 0
+Sample Output of a linkedin job posting againts the my resume. 
++----------+--------+-------------+
+|  Skill   | Resume | Job Posting |
++----------+--------+-------------+
+|   HTML   |   0    |      6      |
+|   CSS    |   0    |      1      |
+|  Java,   |   1    |      0      |
+|    C#    |   0    |      1      |
+|  Spring  |   1    |      0      |
+|   Boot   |   1    |      0      |
+|  Agile   |   1    |      0      |
+|  Scrum   |   1    |      0      |
+|   API    |   1    |      1      |
+| Software |   1    |      2      |
++----------+--------+-------------+
