@@ -25,7 +25,7 @@ def readpdf(skills):
     with pdfplumber.open(filename) as pdf:
         for page in pdf.pages:
             value = page.extract_text().split("\n")
-            values = [w for v in value for w in v.split(" ")]
+        values = [w for v in value for w in v.split(" ")]
 
         for skill in skills:
             if skill in values:
