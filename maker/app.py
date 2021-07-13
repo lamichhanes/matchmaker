@@ -1,7 +1,14 @@
-from jd import webanalyzer as wa
+from jd.posting import JobDescription
 from resume import resume as r
-
 from pprint import pprint
 
-word_count = wa.run()
-r.resume(word_count)
+
+def run(url):
+    jd = JobDescription()
+    word_count = jd.web_processing(url)
+    r.presentation(word_count)
+
+
+if __name__ == "__main__":
+    url = input("Enter posting url: ")
+    run(url)
