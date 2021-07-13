@@ -9,7 +9,7 @@ Keyword search tool. Will check for technical keywords in the job listing and se
 
 This is only bootstrap. Need performance improvement and multiple other fixes.
 Sample Output of a linkedin job posting againts the my resume. 
-+----------+--------+-------------+
+```+----------+--------+-------------+
 |  Skill   | Resume | Job Posting |
 +----------+--------+-------------+
 |   HTML   |   0    |      6      |
@@ -22,4 +22,4 @@ Sample Output of a linkedin job posting againts the my resume.
 |  Scrum   |   1    |      0      |
 |   API    |   1    |      1      |
 | Software |   1    |      2      |
-+----------+--------+-------------+
++----------+--------+-------------+```
