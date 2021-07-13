@@ -22,4 +22,4 @@ Sample Output of a linkedin job posting againts the my resume.
 |  Scrum   |   1    |      0      |
 |   API    |   1    |      1      |
 | Software |   1    |      2      |
-+----------+--------+-------------+```
++----------+--------+-------------+
